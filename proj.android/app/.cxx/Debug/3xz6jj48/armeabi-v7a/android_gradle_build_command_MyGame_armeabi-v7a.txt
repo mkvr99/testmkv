@@ -1,0 +1,7 @@
+Executable : G:\SDK-Android\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+G:\testmkv\testmkv\proj.android\app\.cxx\Debug\3xz6jj48\armeabi-v7a
+MyGame
+jvmArgs : 
+

@@ -1,0 +1,9 @@
+﻿  Copying resources for testmkv ...
+  Building Custom Rule G:/testmkv/testmkv/CMakeLists.txt
+      copying to G:/testmkv/testmkv/proj.win32/bin/testmkv/Debug/Resources
+    Create G:/testmkv/testmkv/proj.win32/bin/testmkv/Debug/Resources\fonts\Marker Felt.ttf
+    Create G:/testmkv/testmkv/proj.win32/bin/testmkv/Debug/Resources\HelloWorld.png
+    Create G:/testmkv/testmkv/proj.win32/bin/testmkv/Debug/Resources\res\.gitkeep
+    ...
+    0 items updated, 6 items created 
+    takes 0.0380001068115 seconds
